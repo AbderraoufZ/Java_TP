@@ -1,0 +1,1 @@
+<p><a href="/tp4/Inscription">Inscription </a> / <a href="/tp4/Connexion">Connexion</a></p>
